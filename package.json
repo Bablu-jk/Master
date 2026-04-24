@@ -1,0 +1,21 @@
+{
+  "name": "master",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://github.com/Bablu-jk/Master#readme",
+  "bugs": {
+    "url": "https://github.com/Bablu-jk/Master/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bablu-jk/Master.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
